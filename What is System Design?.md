@@ -64,7 +64,7 @@ START SIMPLE----->> ADD COMPLEXITY ONLY WHEN NEEDED (Most important rule in all 
 <img width="866" height="181" alt="image" src="https://github.com/user-attachments/assets/0618374a-8603-4eb3-8161-163d48abb4b6" />
 
 ```
-Step 1: Tick the Requirements(Ask the questions)
+## Step 1: Tick the Requirements(Ask the questions)
 - What are the core features?
 - What users are you targettig?
 - What we should not include?
